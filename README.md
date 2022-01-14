@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align='center'>
-  <img src="./logo-w.png" width="150px">
+  <img src="./logo-w.png" width="200px">
 </div>
 <br>
 <br>
@@ -24,6 +24,3 @@ https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
 ## 🌏 API
 스튜디오 지브리의 오픈 API 링크입니다.<br>
 https://ghibliapi.herokuapp.com/#section/Use-Case
-
-## 👀 Repositories 생성 목적<br>
-이 프로젝트는 API 공부를 목적으로 제작되었습니다.
