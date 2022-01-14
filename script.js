@@ -29,10 +29,8 @@ request.onload = function () {
             movie.description = movie.description.substring(0, 300)
             p.textContent = `${movie.description}...` // End with an ellipses
           
-            // Append the cards to the container element
             container.appendChild(card)
           
-            // Each card will contain an h1 and a p
             card.appendChild(h1)
             card.appendChild(p)
           })
