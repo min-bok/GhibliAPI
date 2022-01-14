@@ -18,7 +18,7 @@ https://minbok-1998.github.io/GhibliAPI/
 https://velog.io/@minbok/How-to-Connect-to-an-API-with-JavaScript
 
 ## ✨ Ref
-학습을 위해 아래의 글을 참고하였습니다.<br>
+아래의 글을 참고하였습니다.<br>
 https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
 
 ## 🌏 API
